@@ -1,4 +1,4 @@
-file = open("SLURM_ARRAY_TASK_ID.txt", "rt")
+file = open("sample_1.txt", "rt")
 data = file.read()
 words = data.split()
 
