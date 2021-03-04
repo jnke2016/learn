@@ -1,0 +1,42 @@
+Share prices may have tumbled shortly after the earnings report numbers were posted, but there's no denying NVIDIA (NASDAQ:NVDA) had a stellar fourth quarter. Sales were up 61% year over year, driving a 64% increase in per-share earnings. Granted, the big jumps are largely attributable to the Mellanox acquisition completed in April of last year, but both the top and bottom line topped expectations. Its first-quarter guidance was impressive too. The company is looking for about $5.3 billion in revenue for the quarter now underway, well up from the year-ago comparison of $3.1 billion, and better than the $4.5 billion analysts were expecting.
+
+Nevertheless, NVIDIA share prices are off to the tune of 6% since the fourth-quarter figures were published. The market is taking NVIDIA's warning of chip supply shortages to heart; the latest round of cryptocurrency mania may have also run its course.
+
+An NVIDIA A100 graphics card (GPU).
+IMAGE SOURCE: NVIDIA.
+
+But NVIDIA is better positioned for growth this year than the rhetoric implies, however not for the reason you think. The company's now-stagnant data center business may be on the verge of accelerated growth again, offsetting any headwind blowing against its gaming arm.
+
+Growth is all gaming-related
+Last quarter's gaming hardware business reached a record-breaking $2.5 billion. Refreshed interest in cryptocurrency mining played at least a partial role in that 67% year-over-year growth, though the company says consumer demand for gaming GPUs during the holiday season was the key driver.
+
+Conversely, data center sales of $1.9 billion may have been 97% better than the year-earlier comparison, but Mellanox became part of NVIDIA in the meantime. The improvements should be huge. Last quarter's data center revenue was disappointing even with Q3's figure of $1.9 billion, and less than 9% better than Q2's tally -- when the pandemic was complicating everything.
+
+NVIDIA's data center and gaming-related revenue are both in long-term uptrends.
+DATA SOURCE: NVIDIA. CHART BY AUTHOR. ALL DOLLAR FIGURES ARE IN MILLIONS.
+
+Given the data, it would be easy to assume the Mellanox deal -- which accounts for roughly a third of the company's data center sales -- isn't achieving the growth synergies expected before the acquisition was made. That's just not the case, though. Last quarter's data center lull is a temporary one.
+
+Data center demand rebounding
+A couple of clues point in this direction, not the least of which is the fact that the company itself told us a quarter ago this data center slowdown was already brewing. CFO Colette Kress cautioned investors during the third-quarter earnings call, "we expect data center to be down slightly [for the quarter then underway] versus Q3."
+
+It wasn't a headwind unique to NVIDIA either. Technology market research outfit Gartner estimates data center spending fell more than 10% in 2020, not due to a lack of need or interest, but rather, mostly due to crimped cash flows and coronavirus-related complications. But Gartner is now looking for 6% growth in data center sales this year versus 2020's total, leading into steady annual growth at least through 2024.
+
+And this outlook arguably understates the scope of NVIDIA's actual growth opportunity. This particular company's graphics card technology is particularly well-suited for artificial intelligence applications, so much so that it's tweaking its hardware specifically for this use. Its DGX systems, as an example, are touted as "the world's first portfolio of purpose-built AI supercomputers." It's noteworthy that five of the world's 10 most powerful supercomputers are powered by NVIDIA architecture, according to Jumpstart magazine.
+
+It matters. While data center sales are projected to improve steadily for the foreseeable future, artificial intelligence hardware demand will lead that charge. Another technology market research source, IDC, expects the entire AI market (software, hardware, and services) to grow more than 16% this year and then accelerate to average annual growth of more than 17% over the course of the coming five years. NVIDIA's hardware focus puts it in the slowest growing of those product categories, but at a projected annual growth pace of nearly 14%, the rising infrastructure is still an enormous opportunity for the company to push past Q4's data center slump.
+
+In the meantime, video gaming hardware demand is resilient.
+
+You've got time, and you should use it
+While the long-term future looks bright, investors worried NVIDIA shares may be overbought and overvalued have good reason for their concern. While one has to pay up for quality, this stock price is up by more than 100% for the past 12 months despite its recent pullback, and it is priced richly at more than 40 times this year's consensus per-share earnings. Holding out for a slightly better price isn't a crazy idea.
+
+Just don't hold out too long. Investors are a little spooked by a lack of data center growth and worried about the company's ability to procure components. It shouldn't take them too long, however, to recognize analysts are calling for sales and earnings growth of around this year to be followed by a little more than 12% sales and earnings growth next year. Data centers are going to be a big contributor to that progress.
+
+Should you invest $1,000 in NVIDIA Corporation right now?
+Before you consider NVIDIA Corporation, you'll want to hear this.
+
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and NVIDIA Corporation wasn't one of them.
+
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+
