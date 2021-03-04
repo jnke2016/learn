@@ -7,5 +7,5 @@
 #SBATCH --output=wordcounts_%A_%a.out
 #SBATCH --error=wordcounts_%A_%a.err
 
-cd / jnke2016/learn
+cd / jnke/learn
 python wordcount.py sample-$SLURM_ARRAY_TASK_ID.txt
